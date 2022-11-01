@@ -28,6 +28,8 @@ Console.WriteLine($" Ответ = {result}");
 
 */
 
+/*
+
 int FindSum(int num)
 {   
     int size = Convert.ToString(num).Length;
@@ -45,3 +47,6 @@ Console.WriteLine("Input number ");
 int num = Convert.ToInt32(Console.ReadLine());
 int findSum = FindSum(num);
 Console.WriteLine($"сумма цифр в числе = {findSum}");
+
+*/
+
